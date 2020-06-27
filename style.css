@@ -52,3 +52,10 @@ html {
     color: #ffc600;
   }
   
+  .malaka{
+    position: absolute;
+    padding-bottom: 451px;
+    color: orange;
+    font-size: 7rem;
+    font-family: inherit;
+  }
